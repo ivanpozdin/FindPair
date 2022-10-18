@@ -1,0 +1,1 @@
+data class BoardIndex(val row: Int, val column: Int)
